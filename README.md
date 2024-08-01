@@ -5,9 +5,9 @@ This project involves analyzing network traffic data using Python to identify pa
 * Packet Sniffing: Capturing network traffic data using scapy with user-defined filters and saving it to a file.
 * Data Processing: Parsing and cleaning the captured data to extract relevant features such as IP addresses, ports, protocols, and timestamps.
 * Traffic Analysis: Implementing techniques to analyze the traffic for patterns, including:
-  > Protocol distribution analysis
-  > Top talkers and listeners identification
-  > Bandwidth usage analysis
+  * Protocol distribution analysis
+  * Top talkers and listeners identification
+  * Bandwidth usage analysis
 * Anomaly Detection: Using statistical methods and machine learning algorithms to detect unusual traffic patterns that may indicate security threats or network issues.
 * Visualization: Creating interactive and informative visualizations using plotly to present the analysis results clearly.
 
